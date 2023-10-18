@@ -1,3 +1,7 @@
+# temp_news e parquet_news
+temp_news/
+parquet_news/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
